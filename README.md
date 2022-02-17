@@ -1,4 +1,4 @@
-# Web App Design with React Final Project
+# Web App Design with React Week 3 Coding Assignment
 
 Points possible: 70
 
@@ -9,15 +9,14 @@ Points possible: 70
 | Creativity    | Student solved the problems presented in the assignment using creativity and out of the box thinking. | 25 |
 | Completeness    | All requirements of the assignment are complete. | 25 |
 
+## Instructions 
 
+In VS Code, or an IDE of your choice, write the code that accomplishes the objectives listed below. Ensure that the code compiles and runs as directed. Take screenshots of the code and of the running program (make sure to get screenshots of all required functionality) and paste them in this document where instructed below. Create a new repository on GitHub for this week’s assignments and push this document, with your JavaScript project code, to the repository. Add the URL for this week’s repository to this document where instructed and submit this document to your instructor when complete.
 
 ## Coding Steps:
-+ Using an online API of your choice, or multiple APIs (or if no API can be found, using an array for in-memory storage is okay as well), create a React project of your choice. You will be working on this for the next three weeks. 
-+ Project must meet the following criteria:
-  + Use React Router and have at least 3 pages
-  + Use React Bootstrap or an alternative styling library
-  + Contain at least 10 components
-  + Allow for all CRUD operations
+1.	Using the Houses API, or any open API of your choice you can find online, create a single page that allows for all 4 crud operations to be performed on a resource from that API. Create a React component (or more, if needed) to represent the resource. Make all forms and other necessary UI pieces their own components as reasonable.
+
+
 
 ## Screenshots of Code:
 
