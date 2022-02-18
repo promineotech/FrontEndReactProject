@@ -20,9 +20,23 @@ In VS Code, or an IDE of your choice, write the code that accomplishes the objec
 
 ## Screenshots of Code:
 
+![Picture1](https://user-images.githubusercontent.com/66037960/154762474-d032964c-6038-4715-9b37-df6e2d7fa63d.jpg)
+
+![Picture2](https://user-images.githubusercontent.com/66037960/154762507-53c0c4f9-25e9-41f4-b64f-7a3df6b01729.jpg)
+
+![Picture3](https://user-images.githubusercontent.com/66037960/154762523-e924d41e-aea0-44b7-a91b-dde9e50223f9.jpg)
+
+![Picture4](https://user-images.githubusercontent.com/66037960/154762528-8373d13f-2fd5-443f-b339-ff7a7c6c5522.jpg)
+![Picture5](https://user-images.githubusercontent.com/66037960/154762536-788d37a6-feb0-4709-9eaf-c7c20a131424.jpg)
+![Picture6](https://user-images.githubusercontent.com/66037960/154762545-67f67910-234d-4a5f-ad68-64d0cdb8e58b.jpg)
+![Picture7](https://user-images.githubusercontent.com/66037960/154762552-82eabd77-76f2-4e60-a74b-0a6c840640aa.jpg)
+![Picture8](https://user-images.githubusercontent.com/66037960/154762560-64c12d86-b64b-4d5e-b234-93ae5dce2c38.jpg)
+![Picture9](https://user-images.githubusercontent.com/66037960/154762570-25206771-e2b0-4fe2-85d2-f02853d71402.jpg)
+
 ## Screenshots of Running Application:
+![Output](https://user-images.githubusercontent.com/66037960/154762591-2090821c-d220-4818-8f7b-f795d1841bf3.jpg)
 
 ## URL to GitHub Repository:
 
-
+https://github.com/promineotech/FrontEndReactProject
 
